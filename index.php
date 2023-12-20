@@ -20,13 +20,5 @@ function fooBarService($number) {
     }
     return $result;
 }
-
-/*for ($i = 1; $i <= 15; $i++) 
-    {
-    $result = fooBarService($i);
-    echo $result;
-    echo"<br>";
-    }
-    echo"<br>";*/
     
 ?>
